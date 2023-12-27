@@ -1,1 +1,1 @@
-# protin_wendys
+# Logs
